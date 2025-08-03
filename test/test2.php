@@ -1,3 +1,3 @@
 <?php
     echo "become to junior";
-    echo "hello Trieu";
+    echo "hello leader Trieu";
