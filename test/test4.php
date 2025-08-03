@@ -1,4 +1,4 @@
 <?php
     echo "learn to junior";
-    echo "good bye feature3";
+    echo "good bye fresher, become to junior";
     
