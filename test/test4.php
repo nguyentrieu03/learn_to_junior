@@ -1,4 +1,4 @@
 <?php
     echo "learn to junior";
-    echo "become to middle";
+    echo "become to senior";
     
