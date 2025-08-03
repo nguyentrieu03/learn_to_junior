@@ -1,3 +1,2 @@
 <?php
-    echo "hi world";
-    echo "become to junior";
+    echo "become to junior and target salary is 15M";
