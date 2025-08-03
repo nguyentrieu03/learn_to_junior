@@ -1,5 +1,3 @@
 <?php 
-    echo "hi test5";
-    echo "hi master";
-    echo "hi feature3";
+    echo "I am junior";
     
