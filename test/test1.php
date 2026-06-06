@@ -1,2 +1,2 @@
 <?php
-    echo "target salary 12M";
+    echo "target salary 20M";
